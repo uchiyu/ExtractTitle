@@ -1,0 +1,7 @@
+c:\users\13t208\documents\visual studio 2013\Projects\ExtractTitle\ExtractTitle\bin\Debug\ExtractTitle.exe.config
+C:\Users\13t208\Documents\Visual Studio 2013\Projects\ExtractTitle\ExtractTitle\bin\Debug\ExtractTitle.exe
+C:\Users\13t208\Documents\Visual Studio 2013\Projects\ExtractTitle\ExtractTitle\bin\Debug\ExtractTitle.pdb
+C:\Users\13t208\Documents\Visual Studio 2013\Projects\ExtractTitle\ExtractTitle\obj\Debug\ExtractTitle.csprojResolveAssemblyReference.cache
+C:\Users\13t208\Documents\Visual Studio 2013\Projects\ExtractTitle\ExtractTitle\obj\Debug\ExtractTitle.csproj.ResolveComReference.cache
+C:\Users\13t208\Documents\Visual Studio 2013\Projects\ExtractTitle\ExtractTitle\obj\Debug\ExtractTitle.exe
+C:\Users\13t208\Documents\Visual Studio 2013\Projects\ExtractTitle\ExtractTitle\obj\Debug\ExtractTitle.pdb
